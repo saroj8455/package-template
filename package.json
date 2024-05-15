@@ -5,6 +5,9 @@
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/saroj8455/package-template.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build":"tsup",
@@ -16,6 +19,10 @@
   ],
   "author": "saroj8455",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saroj8455/package-template/issues"
+  },
+  "homepage": "https://github.com/saroj8455/package-template#README",
   "devDependencies": {
     "tsup": "^8.0.2",
     "typescript": "^5.4.5"
