@@ -6,3 +6,4 @@ A list of common util function.
 
 ` npm adduser` <br>
 ` npm whoami` <br>
+`npm publish`<br>
