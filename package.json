@@ -1,5 +1,6 @@
 {
   "name": "package-template-lib-util",
+  "type": "module",
   "version": "0.0.1",
   "description": "Just a sample template package.",
   "main": "./dist/index.js",
