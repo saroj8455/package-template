@@ -1,12 +1,13 @@
 {
-  "name": "package-template",
+  "name": "package-template-lib-util",
   "version": "0.0.1",
   "description": "Just a sample template package.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "repository": {
-    "url": "https://github.com/saroj8455/package-template.git"
+    "type": "git",
+    "url": "git+https://github.com/saroj8455/package-template.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
